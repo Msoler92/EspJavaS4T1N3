@@ -28,3 +28,9 @@ Que has d’entregar? (4 arxius):
 Executa des d’Eclipse els projectes creats als dos nivells anteriors, i mostra el retorn obtingut en cada projecte, quan crides a algunes de les peticions disponibles, fent servir els entorns creats i les seves variables.
 
 Hauràs d’entregar dues captures de pantalla, una per l’execució de cada entorn, i dos arxius amb format JSON, amb els entorns exportats.
+
+## Recursos addicionals
+
+StackOverflow - Service layer: https://stackoverflow.com/questions/5702391/mvcs-model-view-controller-service
+
+Youtube - Julian Mesa - Postman: https://www.youtube.com/playlist?list=PLeo6Q1inqlOeC_zQMg2i3aZcGF_Jmyqd4
